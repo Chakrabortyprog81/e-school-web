@@ -1,0 +1,65 @@
+.navbar-brand img{
+    width: 200px;
+    padding: 30px;
+
+}
+.button-sign-in{
+    background-color:#21B573;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.any{
+    color: #21B573;
+}
+p{
+    color: dimgray;
+}
+h6{
+    color: #fb6330;
+}
+
+.top-part {
+    padding: 10px 60px;
+    height: 500px;
+    background-color:#f0fff0;
+}
+.cat1, .cat2, .cat3, .cat4 {
+    background-color:#F8FFFB;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 20px;
+    text-align: center;
+    width: 200px;
+    height: 200px;    
+    margin-top: 40px;
+    margin-left: 30px;
+    padding: 10px 30px;
+}
+.categories img{
+    width: 100px;
+    padding: 10px 10px;
+}
+#course{
+    margin-top: 10%;
+}
+#course h2{
+    text-align: center;
+    padding-bottom: 5%;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card img{
+    width: 100%;
+    padding:30px 30px 30px;
+}
+.testimonial{
+    margin-top: 5%;
+}
+.testimonial h2{
+    text-align: center;
+}
